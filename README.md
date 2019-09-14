@@ -1,6 +1,6 @@
 # Inventory Sorter
 
-Simple inventory sorting for Minecraft
+Simple inventory sorting for Minecraft 1.14
 
 ## Features
 
